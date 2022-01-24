@@ -1,0 +1,45 @@
+.Thirdpart{
+    margin-bottom: 100px;
+}
+
+.thirdh1{
+    font-size: 25px;
+    margin-top: 45px;
+}
+
+.date{
+   
+}
+.thirddate{
+    font-size: 12px;
+    margin-bottom: 40px;
+    text-decoration: none;
+    color: #5271FF;
+}
+
+.thirdpara{
+    font-size: 12px;
+}
+
+.btn-edit{
+    width: 140px;
+    height: 40px;
+    font-size: 10px;
+    border-radius: 10px;
+    border: 1px solid #06C3B4 ;
+    margin-right: 15px;
+    background-color: #06C3B4;
+    color: #ffff;
+}
+
+.btn-delete{
+    width: 140px;
+    height: 40px;
+    font-size: 10px;
+    border-radius: 10px;
+    border: 1px solid #C34F06 ;
+    margin-right: 15px;
+    background-color: #C34F06;
+    color: #ffff;
+   
+}
