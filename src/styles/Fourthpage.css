@@ -13,22 +13,69 @@ div > label.future{
     padding-right: 0;
 }
 
-.form-group label{
+
+input, button{
+    appearance: none;
+    background: none;
+    border: none;
+    outline:none
+}
+
+
+
+.form-group2{
+    display: block;
+    width: 300px;
+    margin-bottom: 35px;
+    
+}
+
+.form-group2-1{
+    display: block;
+    width: 300px;
+    margin-bottom: 5px;
+    
+}
+
+.form-group2 label{
     font-size: 13px;
     margin-bottom: 5px;
     padding-right: 250px;
 }
+
+.form-group2-1 label{
+    font-size: 13px;
+    margin-bottom: 5px;
+    padding-right: 250px;
+}
+
+
+.form-group2 input{
+    display: block;
+    width: 130%;
+    padding: 10px 15px;
+    border-radius: 8px;
+    border: 1px solid #000;
+    background-color: #f8f8f8;
+   
+}
+
+textarea{
+    border-radius: 5px;
+}
+
 
 .btn-save{
     display: block;
     background-color: #5271FF;
     border-radius: 8px;
     border: 1px solid #5271FF;
-    width: 100px;
-    padding: 5px 5px;
+    width: 180px;
+    padding: 10px 80px;
     color: #fff;
     margin-top: 30px;
     margin-bottom: 50px;
-    margin-left: 140px;
+    margin-left: 120px;
+    font-size: 12px;
 }
 

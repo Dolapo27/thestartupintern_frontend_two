@@ -5,7 +5,7 @@
 .Sixthh1{
     font-size: 20px;
     margin-top: 50px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     padding-right: 140px;
 }
 
@@ -19,23 +19,23 @@ input, button{
 
 
 
-.form-group{
+.form-group4{
     display: block;
     width: 300px;
     margin-bottom: 35px;
     
 }
 
-.form-group label{
+.form-group4 label{
     font-size: 13px;
     margin-bottom: 5px;
     padding-right: 250px;
 }
 
-.form-group input{
+.form-group4 input{
     display: block;
-    width: 100%;
-    padding: 10px 15px;
+    width: 120%;
+    padding: 5px 15px;
     border-radius: 8px;
     border: 1px solid #000;
     background-color: #f8f8f8;
@@ -48,7 +48,10 @@ input, button{
     background-color: #5271FF;
     border-radius: 8px;
     border: 1px solid #5271FF;
-    width: 100px;
-    padding: 5px 5px;
+    width: 150px;
+    padding: 10px 20px;
     color: #fff;
+    font-size: 12px;
+    margin-left: 50px;
+   
 }

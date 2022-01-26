@@ -11,15 +11,15 @@ function Sixthpage() {
             <div className='container Sixthpart text-center'>
                 <h1 className='Sixthh1'>Create an account,</h1>
                 <div align = "center" >
-                    <div className="form-group">
+                    <div className="form-group4">
                         <label htmlFor="name">Fullname</label>
                         <input type="text" />
                     </div>
-                    <div className="form-group">
+                    <div className="form-group4">
                         <label htmlFor="Email">Email</label>
                         <input type="email" />
                     </div>
-                    <div className="form-group">
+                    <div className="form-group4">
                         <label htmlFor="Password">Password</label>
                         <input type="password" />
                     </div>

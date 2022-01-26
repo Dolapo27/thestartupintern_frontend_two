@@ -12,16 +12,16 @@ function Home() {
             <Header />
             <div className='home text-center' >
                 <h1 className='homeh1'>Welcome back,</h1>
-                <p className='homepara'>Hi, my name is Eventful moments, I am a bucket...no, not the
+                <p className='homepara'>Hi, my name is Eventful moments, I am a bucket...no,not the
                     bucket of water but i store awesome moments you will like to have
                     in coming years. 
                 </p>
                 <div align = "center">
-                    <div className="form-group">
+                    <div className="form-group1"> 
                         <label htmlFor="Email">Email</label>
                         <input type="email" />
                     </div>
-                    <div className="form-group">
+                    <div className="form-group1">
                         <label htmlFor="Password">Password</label>
                         <input type="password" />
                     </div>
@@ -29,7 +29,7 @@ function Home() {
                         <button className='btn-home'>Login</button>
                     </Link>
                     
-            
+             
                 </div>
                
              

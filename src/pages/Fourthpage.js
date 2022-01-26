@@ -9,15 +9,15 @@ function Fourthpage() {
         <div className='Fourth'>
             <Headertwo />
             <div className='container Fourthpart'>
-                <div className="form-group fourth-form">
+                <div className="form-group2 fourth-form">
                     <label className='future' htmlFor="date">Date in the future</label>
                     <input type="text" />
                 </div>
-                <div className="form-group">
+                <div className="form-group2">
                     <label htmlFor="Title">Title</label>
                     <input type="text" />
                 </div>
-                <div className="form-group">
+                <div className="form-group2-1">
                     <label htmlFor="Details">Details</label>
                 </div>
                 <div>

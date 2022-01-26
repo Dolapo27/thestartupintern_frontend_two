@@ -1,3 +1,84 @@
 .fifth-form{
     margin-top: 50px;
 }
+
+input, button{
+    appearance: none;
+    background: none;
+    border: none;
+    outline:none
+}
+
+.fourth-form{
+    margin-top: 50px;
+}
+
+div > label.future{
+    padding-right: 0;
+}
+
+
+input, button{
+    appearance: none;
+    background: none;
+    border: none;
+    outline:none
+}
+
+
+
+.form-group3{
+    display: block;
+    width: 300px;
+    margin-bottom: 35px;
+    
+}
+
+.form-group3-1{
+    display: block;
+    width: 300px;
+    margin-bottom: 5px;
+    
+}
+
+.form-group3 label{
+    font-size: 13px;
+    margin-bottom: 5px;
+    padding-right: 250px;
+}
+
+.form-group3-1 label{
+    font-size: 13px;
+    margin-bottom: 5px;
+    padding-right: 250px;
+}
+
+
+.form-group3 input{
+    display: block;
+    width: 130%;
+    padding: 10px 15px;
+    border-radius: 8px;
+    border: 1px solid #000;
+    background-color: #f8f8f8;
+   
+} 
+
+textarea{
+    border-radius: 5px;
+}
+
+
+.btn-creates{
+    display: block;
+    background-color: #5271FF;
+    border-radius: 8px;
+    border: 1px solid #5271FF;
+    width: 180px;
+    padding: 10px 75px;
+    color: #fff;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    font-size: 12px;
+}

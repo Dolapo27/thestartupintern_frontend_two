@@ -13,13 +13,13 @@ function Secondpage() {
             <Headertwo />
             <div className='container secondPart'>
                 <h1 className='welcomejohn'>Welcome John Doe,</h1>
-                <p>Here are items in your eventful moment bucket.</p>
+                <p className='secondpara'>Here are items in your eventful moment bucket.</p>
                 <div className='text-center'>
                     <Link to="/Fourthpage">
                         <Button className='btn-page2-1' variant = "primary">Add Item</Button>
                     </Link>
                     
-                </div>
+                </div> 
                 
            
                 <div class="row row-cols-1 row-cols-md-2 g-4">

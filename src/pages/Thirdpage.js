@@ -9,7 +9,7 @@ function Thirdpage() {
         <div className='Third'>
             <Headertwo />
             <div className='container Thirdpart'>
-                <h1 className='thirdh1'>Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero’s 1scentury BC text De Finibus Bonorum et Malorum.</h1>
+                <h1 className='thirdh1'>Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero’s 1scentury</h1>
                 <div className='thirddate'>20/04/2022</div>
                 <div className='thirdpara'>
                     <p >

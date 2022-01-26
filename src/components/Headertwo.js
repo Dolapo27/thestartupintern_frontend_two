@@ -1,13 +1,13 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+import { NavLink } from 'react-router-dom'
 
 function Header() {
     return (
             <nav className='navbar'>
                 <label className='logo'>Eventful Moments</label>
                 <ul>
-                    <li><Link to="/">LogOut</Link></li>
-                    <li><Link to="/Secondpage">My Bucket</Link></li>
+                    <li><NavLink className="main-nav" to="/">LogOut</NavLink></li>
+                    <li><NavLink className="main-nav" to="/Secondpage">My Bucket</NavLink></li>
                 </ul>
             </nav>
         
